@@ -1,0 +1,10 @@
+# Caches de dependência
+node_modules/
+# Arquivos especiais do sistema operacional ocultos
+.DS_Store
+# Arquivos pessoais de configuração da IDE
+.vscode/*
+# Arquivos gerado ao dar npm install
+package-lock.json
+# Outros arquivos ou pastas
+cypress/downloads/

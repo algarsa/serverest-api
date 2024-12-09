@@ -1,0 +1,1 @@
+Exemplo de automação de API com Cypress. Para realizar a configuração e executar os testes automatizados baixe e instale o node.js em sua máquina, baixe e instale o VS Code, e baixe ou clone o projeto. No prompt de comando ou terminal vá até a pasta do projeto e digite "npm install" e depois digite "npm run cypress:run"
